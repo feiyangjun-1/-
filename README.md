@@ -33,4 +33,4 @@
 <ul><li>这款字体不能用于违法行为，如因使用这款字体产生纠纷或法律诉讼，作者不承担任何责任。</li><li>根据<a rel="noreferrer noopener" href="https://www.maoken.com/ofl" target="_blank">SIL Open Font License 1.1</a>的规定，禁止单独出售字体文件(OTF/TTF文件)的行为。</li></ul>
 </div></div>
 
-<p>如果有啥问题请用Issues或在<a rel="noreferrer noopener" href="https://message.bilibili.com/#whisper/mid129328322" target="_blank">b站私信</a>问我</p>
+<p>如果有啥问题请用<a rel="noreferrer noopener" href="https://github.com/feiyangjun-1/feiyang-minchou/issues" target="_blank">Issues</a>或在<a rel="noreferrer noopener" href="https://message.bilibili.com/#whisper/mid129328322" target="_blank">b站私信</a>问我</p>
