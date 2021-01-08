@@ -13,17 +13,26 @@ Q：那这款字体和思源宋体有什么区别？
 A：盲生你发现了华点[doge]，这款字体从根本上解决了思源宋体的行距过高。
 
 Q：这款字体可以商用吗？
-# 这款字体是依据SIL Open Font License 1.1授权协议免费公开，关于授权协议的内容、免责事项等细节，请查看详细的License授权文件的内容。
+<div class="wp-block-group has-very-light-gray-background-color has-background m-group"><div class="wp-block-group__inner-container">
+<p style="font-size:18px"><strong>字体授权说明：</strong></p>
 
-# 这款字体允许做的事：
 
-这款字体无论是个人还是企业都可以自由商用，无需付费，也无需知会或者标明原作者。
-这款字体可以自由传播、分享，或者将字体安装于系统、软件或APP中也是允许的，可以与任何软件捆绑再分发以及／或一并销售。
-这款字体可以自由修改、改造。修改或改造后的字体也必须同样以SIL Open Font License 1.1授权公开。
 
-# 这款字体注意事项：
+<p>这款字体是依据<a rel="noreferrer noopener" aria-label="SIL Open Font License 1.1（在新窗口打开）" href="https://www.maoken.com/ofl" target="_blank">SIL Open Font License 1.1</a>授权协议免费公开，关于授权协议的内容、免责事项等细节，请查看详细的License授权文件的内容。</p>
 
-这款字体不能用于违法行为，如因使用这款字体产生纠纷或法律诉讼，作者不承担任何责任。
-根据SIL Open Font License 1.1的规定，禁止单独出售字体文件(OTF/TTF文件)的行为。
 
-详细请参阅<a rel="noreferrer noopener" href="https://www.maoken.com/ofl" target="_blank">SIL Open Font License 1.1中文版</a>
+
+<p>    <strong>这款字体允许做的事：</strong></p>
+
+
+
+<ul><li>这款字体无论是个人还是企业都可以自由商用，无需付费，也无需知会或者标明原作者。</li><li>这款字体可以自由传播、分享，或者将字体安装于系统、软件或APP中也是允许的，可以与任何软件捆绑再分发以及／或一并销售。</li><li>这款字体可以自由修改、改造。修改或改造后的字体也必须同样以<a rel="noreferrer noopener" href="https://www.maoken.com/ofl" target="_blank">SIL Open Font License 1.1</a>授权公开。</li></ul>
+
+
+
+<p>    <strong>这款字体注意事项：</strong></p>
+
+
+
+<ul><li>这款字体不能用于违法行为，如因使用这款字体产生纠纷或法律诉讼，作者不承担任何责任。</li><li>根据<a rel="noreferrer noopener" href="https://www.maoken.com/ofl" target="_blank">SIL Open Font License 1.1</a>的规定，禁止单独出售字体文件(OTF/TTF文件)的行为。</li></ul>
+</div></div>
