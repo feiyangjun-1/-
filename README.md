@@ -14,7 +14,7 @@
 
 
 
-<p>这款字体是依据<a rel="noreferrer noopener" aria-label="SIL Open Font License 1.1（在新窗口打开）" href="https://www.maoken.com/ofl" target="_blank">SIL Open Font License 1.1</a>授权协议免费公开，关于授权协议的内容、免责事项等细节，请查看详细的License授权文件的内容。</p>
+<p>这款字体是依据<a rel="noreferrer noopener" aria-label="SIL Open Font License 1.1" href="https://www.maoken.com/ofl" target="_blank">SIL Open Font License 1.1</a>授权协议免费公开，关于授权协议的内容、免责事项等细节，请查看详细的License授权文件的内容。</p>
 
 
 
@@ -32,3 +32,5 @@
 
 <ul><li>这款字体不能用于违法行为，如因使用这款字体产生纠纷或法律诉讼，作者不承担任何责任。</li><li>根据<a rel="noreferrer noopener" href="https://www.maoken.com/ofl" target="_blank">SIL Open Font License 1.1</a>的规定，禁止单独出售字体文件(OTF/TTF文件)的行为。</li></ul>
 </div></div>
+
+<p>如果有啥问题请用Issues或在<a rel="noreferrer noopener" href="https://message.bilibili.com/#whisper/mid129328322" target="_blank">b站私信</a>问我</p>
