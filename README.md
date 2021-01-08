@@ -15,7 +15,7 @@
 <p>       </p>
 <p>Q：这款字体可以商用吗？</p>
 <p>       </p>
-<p>下面的话是直接从<a rel="noreferrer noopener" aria-label="猫啃网" href="https://www.maoken.com/" target="_blank">搬来的</p>
+<p>下面的话是直接从<a rel="noreferrer noopener" href="https://www.maoken.com/" target="_blank">猫啃网</a>搬来的</p>
 <p style="font-size:18px"><strong>字体授权说明：</strong></p>
 
 
